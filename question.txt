@@ -1,0 +1,5 @@
+1)Il ne sert à rien d'appeler l'api à chaque fois. Le mieux est de passer par un site servant d'interface. 
+
+2)Il faut un compte AWS car l'entreprise appartient à Amazon. 
+
+3)On pourrait créer un compte pour chaque utilisateur permettant de leur facturer les requetes.
